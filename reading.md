@@ -89,3 +89,4 @@ In addition here are vídeo, image, text, exemplar documents and other associate
 
 * [The Encyclopedia of Human-Computer Interaction, 2nd Ed. Research through Design](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design)
 * [Research through Design conference](https://www.researchthroughdesign.org/)
+* [Probetools.net, devices for cultural probes, website](https://probetools.net)
