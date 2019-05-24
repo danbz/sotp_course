@@ -11,7 +11,7 @@ Doutoramento em Design | PhD in Design
 
 Ciência do Projeto | Science of Project
 
-[Download papers](papers)
+[Download papers](https://github.com/danbz/sotp_course/tree/master/papers)
 
 #  Core Reading
 Core Reading is as follows;
@@ -52,22 +52,22 @@ In addition here are vídeo, image, text, exemplar documents and other associate
 
 Video
 * Marc Hassenzahl : Introduction to User Experience and Experience Design
-    [ https://www.youtube.com/watch?v=lEvhxJKTQK8 ]
+    [video](https://www.youtube.com/watch?v=lEvhxJKTQK8)
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lEvhxJKTQK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Aral Balkan : Aral Balkan: Superheroes & Villains in Design
-    ( https://vimeo.com/70030549 )
+    [video](https://vimeo.com/70030549)
 <iframe src="https://player.vimeo.com/video/70030549?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/70030549">Aral Balkan: Superheroes &amp; Villains in Design</a> from <a href="https://vimeo.com/thinkingdigital">Thinking Digital</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 * Matthias Laschke : The Keymoment , Change through friendly friction
-    (https://vimeo.com/86994036)
-    (https://www.pleasurabletroublemakers.com/keymoment)
+    [video](https://vimeo.com/86994036)
+    [documentation](https://www.pleasurabletroublemakers.com/keymoment)
 
     <iframe src="https://player.vimeo.com/video/86994036" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/86994036">The Keymoment: Change through friendly friction | by Matthias Laschke</a> from <a href="https://vimeo.com/experienceinteraction">Siegen Experience &amp; Interaction</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Links
 * [The Encyclopedia of Human-Computer Interaction, 2nd Ed. Research through Design](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design)
-* https://www.researchthroughdesign.org/ 
+* [Research through Design conference](https://www.researchthroughdesign.org/)
