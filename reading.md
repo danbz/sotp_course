@@ -11,7 +11,7 @@ Doutoramento em Design | PhD in Design
 
 Ciência do Projeto | Science of Project
 
-[papers](papers)
+[Download papers](papers)
 
 #  Core Reading
 Core Reading is as follows;
@@ -41,6 +41,7 @@ Paper
 Additional reading is as follows;
 * Organising principles and general guidelines for Participatory Design projects
 Tone Bratteteig, Keld Bødker, Yvonne Dittrich, Preben Holst Mogensen and Jesper Simonsen in Simonsen, J. & Robertson, T., 2012. in  Routledge international handbook of participatory design J. Simonsen & T. Robertson, eds., Routledge International.
+*  Design Issues : Volume 33, No. 3 - Special Issue: Research Through Design: Twenty-First Century Makers and Materialities. MIT Press (https://www.mitpressjournals.org/toc/desi/33/3/)
 * Kia Hook, evaluations (something)
 
 
@@ -49,7 +50,7 @@ In addition there will be vídeo, image, text, exemplar documents and other asso
 Video
 * Marc Hassenzahl : Introduction to User Experience and Experience Design
     [ https://www.youtube.com/watch?v=lEvhxJKTQK8 ]
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lEvhxJKTQK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Aral Balkan : Aral Balkan: Superheroes & Villains in Design
@@ -64,4 +65,6 @@ Video
     <iframe src="https://player.vimeo.com/video/86994036" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/86994036">The Keymoment: Change through friendly friction | by Matthias Laschke</a> from <a href="https://vimeo.com/experienceinteraction">Siegen Experience &amp; Interaction</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-
+Links
+* [The Encyclopedia of Human-Computer Interaction, 2nd Ed. Research through Design](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design)
+* https://www.researchthroughdesign.org/ 
