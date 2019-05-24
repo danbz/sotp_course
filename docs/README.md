@@ -1,29 +1,21 @@
-# Science of The Project
+# Science of The Project | Main
 Documentation for the PhD course 'Science of the Project'
 
-main doc
-[view the session overview](sessions.md)
-
+[view the main overview](README.md) | 
+[view the session overview](sessions.md) | 
 [view the reading list](reading.md)
 
 Doutoramento em Design | PhD in Design
 
-Ciência do Projeto
-Science of Project
-Organização do ano curricular
-Organization of the curricular year
-Area Projeto
-Project
+Ciência do Projeto | Science of Project
+Organização do ano curricular | Organization of the curricular year
+Area Projeto | Project
 1.o Sem.
-208,0  Horas de trabalho
-Hours of work
-21 Horas de Contacto
-Hours of contact
+208,0  Horas de trabalho | Hours of work
+21 Horas de Contacto | Hours of contact
 
-Observações
-Observations
- Avaliação numérica 0-20
-20-point grading scale
+Observações | Observations
+Avaliação numérica 0-20 | 20-point grading scale
 
 Framework: 
 Design orientated research is an area with a long history that is an exciting and dynamic field of investigation. There are established processes and well understood methods of using the generative, divergent nature of design to scientifically investigate and objectively evaluate design work and design outputs and artfacts. These processes often begin with the generation of deeper knowledge around a subject or research area that allows insight and development of evidenced hypotheses. The evaluation of design orientated hypotheses is often based upon tests of efficacy in the context of use of individual design artefacts or prototypes. This information is commonly a combination of quantitative and quantitative data, the two sides giving a greater picture of actual use. Recently the area of ‘Research Though Design‘ (RtD) has become an umbrela phrase to encompass many of these ideas and processes. In this module we discuss Research through Design, it’s scientific and philosophical underpinnings and common approaches and processes used in it’s application in scientific design projects.
