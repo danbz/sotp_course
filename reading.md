@@ -37,7 +37,6 @@ Paper
 * Arrigoni, G., 2016. Epistemologies of prototyping: knowing in artistic research. Digital Creativity, 27(2), pp.99–112.
 * Keymoment, Laschke, Hassenzahl
 
-
 # Additional reading
 Additional reading is as follows;
 * Organising principles and general guidelines for Participatory Design projects
@@ -46,3 +45,13 @@ Tone Bratteteig, Keld Bødker, Yvonne Dittrich, Preben Holst Mogensen and Jesper
 
 
 In addition there will be vídeo, image, text, exemplar documents and other associated materials for students to review
+
+Video
+* Marc Hassenzahl : Introduction to User Experience and Experience Design
+    [ https://www.youtube.com/watch?v=lEvhxJKTQK8 ]
+* Aral Balkan : Aral Balkan: Superheroes & Villains in Design
+    [ https://vimeo.com/70030549 ]
+* Matthias Laschke : The Keymoment , Change through friendly friction
+    [https://vimeo.com/86994036]
+    [https://www.pleasurabletroublemakers.com/keymoment]
+
