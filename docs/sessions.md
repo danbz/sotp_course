@@ -1,10 +1,14 @@
-# Science of The Project
+# Science of The Project | session plan
 Documentation for the PhD course 'Science of the Project'
+
+[view the main overview](README.md) | 
+[view the session overview](sessions.md) | 
+[view the reading list](reading.md)
+
 
 Doutoramento em Design | PhD in Design
 
-Ciência do Projeto
-Science of Project
+Ciência do Projeto | Science of Project
 
 Session plan
 -------------------------------
