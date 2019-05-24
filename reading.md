@@ -11,6 +11,8 @@ Doutoramento em Design | PhD in Design
 
 Ciência do Projeto | Science of Project
 
+[papers](papers)
+
 #  Core Reading
 Core Reading is as follows;
 Book
@@ -18,7 +20,7 @@ Book
 
 Paper
 * Candy, L., 2006. Practice Based Research : A Guide Practice and Research. 
-    https://www.creativityandcognition.com/resources/PBR%20Guide-1.1-2006.pdf
+   [https://www.creativityandcognition.com/resources/PBR%20Guide-1.1-2006.pdf]
 * Frankel, L. & Racine, M., 2010. The Complex Field of Research: for Design, through Design, and about Design. Design Research Society.
 * Gaver, W., 2012. What Should We Expect From Research Through Design? In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Austin, Texas: ACM - Association for Computing Machinery, pp. 937–946.
 * Wallace, J. et al., 2013. Making design probes work. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. New York, New York, USA: ACM - Association for Computing Machinery, p. 3441..
