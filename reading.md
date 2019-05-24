@@ -17,28 +17,29 @@ Documentation for the PhD course 'Science of the Project'
 
 Core Reading is as follows;
 
-### Book
+### Core Books
 
 * McCarthy, J. & Wright, P., 2004. Technology as Experience. Interactions, 11(5), pp.42–43.
 
-### Paper
+### Core Papers
 
-* Candy, L., 2006. Practice Based Research : A Guide Practice and Research. 
-   [https://www.creativityandcognition.com/resources/PBR%20Guide-1.1-2006.pdf]
+* Candy, L., 2006. Practice Based Research : A Guide Practice and Research.
+   [download paper](https://www.creativityandcognition.com/resources/PBR%20Guide-1.1-2006.pdf)
 * Frankel, L. & Racine, M., 2010. The Complex Field of Research: for Design, through Design, and about Design. Design Research Society.
 * Gaver, W., 2012. What Should We Expect From Research Through Design? In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Austin, Texas: ACM - Association for Computing Machinery, pp. 937–946.
 * Wallace, J. et al., 2013. Making design probes work. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. New York, New York, USA: ACM - Association for Computing Machinery, p. 3441..
 * Gaver, B. & Bowers, J., 2012. Annotated portfolios. Interactions, 19(4), p.40
-* Frayling, C., 1993. Research in Art and Design. Royal College of Art Research Papers, 1, pp.1–5. Available at: http://www.opengrey.eu/handle/10068/492065
+* Frayling, C., 1993. Research in Art and Design. Royal College of Art Research Papers, 1, pp.1–5. [Available online](http://www.opengrey.eu/handle/10068/492065)
 
 ## Recommended reading
+
 Recommended reading is as follows;
 
-### Book
+### Recommended Books
 
 * Blythe, M., Monk, A., Overbeeke, C., Wright, P. (Eds.), Funology: From Usability to User Enjoyment. Kluwer, Dordrecht, pp. 19–29.
 
-### Paper
+### Recommended Papers
 
 * Hassenzahl, M., 2004. The Interplay of Beauty, Goodness, and Usability in Interactive Products. Human Computer Interaction, 19(4), pp.319–349.
 * Arrigoni, G., 2016. Epistemologies of prototyping: knowing in artistic research. Digital Creativity, 27(2), pp.99–112.
@@ -73,6 +74,16 @@ In addition here are vídeo, image, text, exemplar documents and other associate
 
 <iframe src="https://player.vimeo.com/video/86994036" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/86994036">The Keymoment: Change through friendly friction | by Matthias Laschke</a> from <a href="https://vimeo.com/experienceinteraction">Siegen Experience &amp; Interaction</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+* Sir Christopher Frayling: RtD 2015 Conference Provocation
+
+    * [Part 1: Research through Design and its evolution](https://vimeo.com/129775325)
+    * [Part 2: Designers as knowledge generators](https://vimeo.com/129776561)
+    * [Part 3: Unpacking craft knowledge](https://vimeo.com/129777503)
+    * [Part 4: RTD in design education](https://vimeo.com/129778507)
+    * [Part 5: On the RTD Proceedings](https://vimeo.com/129779638)
+    * [Part 6: Building a conference series](https://vimeo.com/129780022)
+    * [Part 7: Design-led research: the next chapter](https://vimeo.com/129780632)
 
 ## Links
 
