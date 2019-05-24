@@ -13,10 +13,10 @@ Documentation for the PhD course 'Science of the Project'
 #  Core Reading
 Core Reading is as follows;
 
-Book
+### Book
 *  McCarthy, J. & Wright, P., 2004. Technology as Experience. Interactions, 11(5), pp.42–43.
 
-Paper
+### #Paper
 * Candy, L., 2006. Practice Based Research : A Guide Practice and Research. 
    [https://www.creativityandcognition.com/resources/PBR%20Guide-1.1-2006.pdf]
 * Frankel, L. & Racine, M., 2010. The Complex Field of Research: for Design, through Design, and about Design. Design Research Society.
@@ -28,10 +28,10 @@ Paper
 # Recommended reading
 Recommended reading is as follows;
 
-Book
+### Book
 * Blythe, M., Monk, A., Overbeeke, C., Wright, P. (Eds.), Funology: From Usability to User Enjoyment. Kluwer, Dordrecht, pp. 19–29.
 
-Paper
+### Paper
 * Hassenzahl, M., 2004. The Interplay of Beauty, Goodness, and Usability in Interactive Products. Human Computer Interaction, 19(4), pp.319–349.
 * Arrigoni, G., 2016. Epistemologies of prototyping: knowing in artistic research. Digital Creativity, 27(2), pp.99–112.
 * Keymoment, Laschke, Hassenzahl
@@ -47,11 +47,11 @@ Tone Bratteteig, Keld Bødker, Yvonne Dittrich, Preben Holst Mogensen and Jesper
 
 In addition here are vídeo, image, text, exemplar documents and other associated materials for students to review
 
-Video
+## Video
 * Marc Hassenzahl : Introduction to User Experience and Experience Design
     [video](https://www.youtube.com/watch?v=lEvhxJKTQK8)
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lEvhxJKTQK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lEvhxJKTQK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Aral Balkan : Aral Balkan: Superheroes & Villains in Design
     [video](https://vimeo.com/70030549)
@@ -62,9 +62,9 @@ Video
     [video](https://vimeo.com/86994036)
     [documentation](https://www.pleasurabletroublemakers.com/keymoment)
 
-    <iframe src="https://player.vimeo.com/video/86994036" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/86994036" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/86994036">The Keymoment: Change through friendly friction | by Matthias Laschke</a> from <a href="https://vimeo.com/experienceinteraction">Siegen Experience &amp; Interaction</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Links
+## Links
 * [The Encyclopedia of Human-Computer Interaction, 2nd Ed. Research through Design](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design)
 * [Research through Design conference](https://www.researchthroughdesign.org/)
