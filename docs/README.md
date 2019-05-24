@@ -3,6 +3,7 @@ Documentation for the PhD course 'Science of the Project'
 
 main doc
 [view the session overview](sessions.md)
+
 [view the reading list](reading.md)
 
 Doutoramento em Design | PhD in Design
