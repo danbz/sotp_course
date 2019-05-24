@@ -9,7 +9,7 @@ Documentation for the PhD course 'Science of the Project'
 -------------------------------
 
 * Session 1
-# What is research through design?
+## What is research through design?
  What is a scientific contribution, establishing knowledge and peer review in design
     overview of module, learning goals, assignment info. Rittel and Weber and the wicked problem. Design as a generative process. 
     * reading: Candy - Practice based research (2006)
