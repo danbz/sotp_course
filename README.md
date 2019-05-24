@@ -1,25 +1,21 @@
-# Science of The Project | Main
+# Ciência do Projeto | Science of Project
+# Overview 
 Documentation for the PhD course 'Science of the Project'
 
 [view the main overview](README.md) | 
 [view the session overview](sessions.md) | 
 [view the reading list](reading.md)
 
-Doutoramento em Design | PhD in Design
+-------------------------------
 
-Ciência do Projeto | Science of Project
-
-Organização do ano curricular | Organization of the curricular year
-
-Area Projeto | Project 1.o Sem.
-
-208,0  Horas de trabalho | Hours of work
-
-21 Horas de Contacto | Hours of contact
-
-Observações | Observations
-
-Avaliação numérica 0-20 | 20-point grading scale
+| Doutoramento em Design | PhD in Design
+| Ciência do Projeto | Science of Project
+| Organização do ano curricular | Organization of the curricular year
+| Area Projeto | Project 1.o Sem.
+| 208,0  Horas de trabalho | Hours of work
+| 21 Horas de Contacto | Hours of contact
+| Observações | Observations
+| Avaliação numérica 0-20 | 20-point grading scale
 
 Framework: 
 

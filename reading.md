@@ -1,17 +1,14 @@
-
-# Science of The Project | reading list
+# Ciência do Projeto | Science of Project
+# Reading list
 Documentation for the PhD course 'Science of the Project'
 
 [view the main overview](README.md) | 
 [view the session overview](sessions.md) | 
 [view the reading list](reading.md)
 
-
-Doutoramento em Design | PhD in Design
-
-Ciência do Projeto | Science of Project
-
+-------------------------------
 [Download papers](https://github.com/danbz/sotp_course/tree/master/papers)
+-------------------------------
 
 #  Core Reading
 Core Reading is as follows;
