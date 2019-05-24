@@ -52,7 +52,7 @@ Additional reading is as follows;
 * Organising principles and general guidelines for Participatory Design projects
 Tone Bratteteig, Keld Bødker, Yvonne Dittrich, Preben Holst Mogensen and Jesper Simonsen in Simonsen, J. & Robertson, T., 2012. in  Routledge international handbook of participatory design J. Simonsen & T. Robertson, eds., Routledge International.
 * Design Issues : Volume 33, No. 3 - Special Issue: Research Through Design: Twenty-First Century Makers and Materialities. MIT Press (https://www.mitpressjournals.org/toc/desi/33/3/)
-* Kia Hook, evaluations (something)
+* Kia Hook, evaluations (citation required)
 
 In addition here are vídeo, image, text, exemplar documents and other associated materials for students to review
 
