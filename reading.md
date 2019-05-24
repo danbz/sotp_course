@@ -15,6 +15,7 @@ Ciência do Projeto | Science of Project
 
 #  Core Reading
 Core Reading is as follows;
+
 Book
 *  McCarthy, J. & Wright, P., 2004. Technology as Experience. Interactions, 11(5), pp.42–43.
 
@@ -29,6 +30,7 @@ Paper
 
 # Recommended reading
 Recommended reading is as follows;
+
 Book
 * Blythe, M., Monk, A., Overbeeke, C., Wright, P. (Eds.), Funology: From Usability to User Enjoyment. Kluwer, Dordrecht, pp. 19–29.
 
@@ -39,13 +41,14 @@ Paper
 
 # Additional reading
 Additional reading is as follows;
+
 * Organising principles and general guidelines for Participatory Design projects
 Tone Bratteteig, Keld Bødker, Yvonne Dittrich, Preben Holst Mogensen and Jesper Simonsen in Simonsen, J. & Robertson, T., 2012. in  Routledge international handbook of participatory design J. Simonsen & T. Robertson, eds., Routledge International.
 *  Design Issues : Volume 33, No. 3 - Special Issue: Research Through Design: Twenty-First Century Makers and Materialities. MIT Press (https://www.mitpressjournals.org/toc/desi/33/3/)
 * Kia Hook, evaluations (something)
 
 
-In addition there will be vídeo, image, text, exemplar documents and other associated materials for students to review
+In addition here are vídeo, image, text, exemplar documents and other associated materials for students to review
 
 Video
 * Marc Hassenzahl : Introduction to User Experience and Experience Design
