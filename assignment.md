@@ -30,7 +30,8 @@ The video can also include a url/link to a hosted, downloadable version (eg. you
 
 ### Deliverables
 
-* 1) A conference style position paper in .pdf format using the ACM extended Abstracts Template. 
+* 1) A conference style position paper in .pdf format using the ACM extended Abstracts Template.
+   [SIGCHI templates in word](https://sigchi.org/templates) [SIGCHI templates in LaTeX on overleaf.com](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sigchi-extended-abstract-template/zzzfqvkmrfzn)
     Your paper will include a variety of material, including (if appropriate) tables, diagrams and photographic evidence
 * 2) A 90 second video describing your research, context process, and/or conclusions - suitable for a conference audience
     Your video will include titles at beginning and end, voice over, subtitles 
