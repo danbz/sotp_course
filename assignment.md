@@ -7,7 +7,7 @@ Documentation for the PhD course 'Science of the Project'
 [view the main overview](README.md) |
 [view the session overview](sessions.md) |
 [view the reading list](reading.md) |
-[view the assignment list](assignment.md)
+[view the assignment](assignment.md)
 
 -------------------------------
 [Download the assignment](https://github.com/danbz/sotp_course/tree/master/assignment.pdf)
