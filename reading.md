@@ -20,7 +20,7 @@ Core Reading is as follows;
 
 ### Core Books
 
-* McCarthy, J. and Wright, P. (2004) Technology as Experience. MIT Press. Available at: [https://mitpress.mit.edu/books/technology-experience](https://mitpress.mit.edu/books/technology-experience)
+* McCarthy, J. and Wright, P. (2004) Technology as Experience. MIT Press. Available at: [https://mitpress.mit.edu/books/technology-experience](https://mitpress.mit.edu/books/technology-experience) (NB. chapter 2 pp23- 48)
 
 ### Core Papers
 
