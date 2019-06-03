@@ -20,7 +20,7 @@ Research project and documentation in written and video format
 
 ### Deadline
 
-Monday 17th June, 2019
+Monday 24th June, 2019 17:00pm
 
 ### Submission format
 
