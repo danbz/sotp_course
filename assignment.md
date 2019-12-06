@@ -20,7 +20,7 @@ Research project and documentation in written and video format
 
 ### Deadline
 
-TBC 
+January 17th, 2020 
 
 ### Submission format
 
