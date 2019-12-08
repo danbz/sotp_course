@@ -72,3 +72,5 @@ Delivery of the learning material will be conducted by
 ## Grading and assessment
 
 Grading will be assigned by the module teaching staff in a range from 0 to 20.
+
+![screenshot](iade.jpg)
