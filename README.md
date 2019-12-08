@@ -21,6 +21,10 @@ Documentation for the PhD course 'Science of the Project'
 | Observações | Observations
 | Avaliação numérica 0-20 | 20-point grading scale
 
+
+also available as a github website here https://danbz.github.io/sotp_course/
+
+
 ## Framework
 
 Design orientated research is an area with a long history that is an exciting and dynamic field of investigation. There are established processes and well understood methods of using the generative, divergent nature of design to scientifically investigate and objectively evaluate design work and design outputs and artfacts. These processes often begin with the generation of deeper knowledge around a subject or research area that allows insight and development of evidenced hypotheses. The evaluation of design orientated hypotheses is often based upon tests of efficacy in the context of use of individual design artefacts or prototypes. This information is commonly a combination of quantitative and quantitative data, the two sides giving a greater picture of actual use. Recently the area of ‘Research Though Design‘ (RtD) has become an umbrella phrase to encompass many of these ideas and processes. In this module we discuss Research through Design, it’s scientific and philosophical underpinnings and common approaches and processes used in it’s application in scientific design projects.
