@@ -7,7 +7,8 @@ Documentation for the PhD course 'Science of the Project'
 [view the main overview](README.md) |
 [view the session overview](sessions.md) |
 [view the reading list](reading.md) |
-[view the assignment](assignment.md)
+[view the assignment](assignment.md) |
+[view the slides](slides/)
 
 -------------------------------
 
