@@ -45,6 +45,7 @@ Recommended reading is as follows;
 * Hassenzahl, M., 2004. The Interplay of Beauty, Goodness, and Usability in Interactive Products. Human Computer Interaction, 19(4), pp.319–349.
 * Arrigoni, G., 2016. Epistemologies of prototyping: knowing in artistic research. Digital Creativity, 27(2), pp.99–112.
 * Keymoment, Laschke, Hassenzahl
+* Wallace, J. et al. (2013) ‘Making design probes work’, in Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. New York, New York, USA: ACM - Association for Computing Machinery, p. 3441. doi: 10.1145/2470654.2466473.
 
 ## Additional reading
 
