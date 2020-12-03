@@ -20,7 +20,7 @@ Research project and documentation in written and video format
 
 ### Deadline
 
-January 17th, 2020 
+January 22nd, 2021
 
 ### Submission format
 
