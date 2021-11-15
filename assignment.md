@@ -20,7 +20,7 @@ Research project and documentation in written and video format
 
 ### Deadline
 
-January 22nd, 2021
+date TBC January, 2022 midnight in any timezone.
 
 ### Submission format
 
