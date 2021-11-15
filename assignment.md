@@ -42,7 +42,7 @@ The video can also include a url/link to a hosted, downloadable version (eg. you
 
 For this assignment you will undertake four key tasks;
 
-* Conduct Ethnographic evaluation using a design probe methodology. Investigating a task, activity or specific context toward making and environmentally supportive intervention into an everyday area.
+* Conduct an (auto) Ethnographic evaluation using a design probe methodology. Investigating a task, activity or specific context you are engaged with toward making a personal wellbeing or socially supportive intervention into an everyday area or activity.
 * Collate, code and evaluate research observations and evidence from your ethnographic design probe/observational study. 
 * Document your research as an ACM position paper; 4-6 pages in ACM Extended abstracts format
 * Create a clear, high quality 90 second conference / project video illustrating your work
