@@ -43,7 +43,7 @@ After taking this module students will be able to;
 Indicative activities and subjects covered in this module include:
 
 * Introduction to Design Research and Research through Design
-* Disussion of uses of ethnographic research in design
+* Disussion of uses of (auto) ethnographic research in design
 * Development and uses of ‘design probes’ in scientific research
 * Development and structuring of projects for design research
 * Techniques for rapid prototyping and design iteration
