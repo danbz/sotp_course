@@ -20,7 +20,7 @@ Research project and documentation in written and video format
 
 ### Deadline
 
-21st January, 2022 midnight in any timezone.
+26th January, 2024 midnight in any timezone.
 
 ### Submission format
 
