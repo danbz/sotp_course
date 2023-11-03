@@ -3,6 +3,7 @@
 ## Session plan
 
 Documentation for the PhD course 'Science of the Project'
+x
 
 [view the main overview](README.md) |
 [view the session overview](sessions.md) |
