@@ -34,6 +34,8 @@ The video can also include a url/link to a hosted, downloadable version (eg. you
    [SIGCHI templates in word](https://sigchi.org/templates) [SIGCHI templates in LaTeX](https://github.com/sigchi/Document-Formats/tree/master/LaTeX)
    ([overleaf.com](http://overleaf.com) is recommended starting point for working in LaTeX)
     Your paper will include a variety of material, including (if appropriate) tables, diagrams and photographic evidence
+    there is a Microsoft [word format version here](SIGCHIExtendedAbstractsFormat.docx)
+    and a [PDF example of the template here](LaTeX SIGCHI Extended Abstract.pdf)
 * 2) A 90 second video describing your research, context process, and/or conclusions - suitable for a conference audience
     Your video will include titles at beginning and end, voice over, subtitles 
     The titles will include: Project title (this will most likely be the same as the title of your paper), your name, contact details and affiliation.
